@@ -1,6 +1,6 @@
 #Revaz Zakalashvili (zakala)
 ##Software Developer
-====
+
 ###Contact
 
 Email: <revaz.zakalashvili@gmail.com>
@@ -8,6 +8,7 @@ Email: <revaz.zakalashvili@gmail.com>
 Social me: [GitHub](https://github.com/revazi), [Twitter](https://twitter.com/rzakala), [LinkedIn](https://www.linkedin.com/in/revazi)
 
 ---
+>>>>>>> 5cea853696fd4311e04e9131e753e339c9ae9a36
 ###About me
 As a software developer I mainly try not to be a technology specific and get my hands on as many intereseting frameworks and tools as I can. 
 
@@ -46,7 +47,7 @@ Also I had one project experience on **[magento](https://magento.com)**.
 
 For a front-end development I used **Bootstrap** and **jQuery** libraries, also used **Grunt** task runner and **Stylus** as a **CSS** preprocessor.
 
-	
+
 ####[ITDC](http://itdc.ge)
 **Front-End Developer**
 I created and developed responsive web pages, for task automatization I used **Guard**, **sass** plus  **compass** as a **CSS** preprocessor, **Bootstrap** and **jquery** libraries.
