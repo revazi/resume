@@ -1,6 +1,13 @@
 #Revaz Zakalashvili (zakala)
 ##Software Developer
 ====
+###Contact
+
+Email: <revaz.zakalashvili@gmail.com>
+
+Social me: [GitHub](https://github.com/revazi), [Twitter](https://twitter.com/rzakala), [LinkedIn](https://www.linkedin.com/in/revazi)
+
+---
 ###About me
 As a software developer I mainly try not to be a technology specific and get my hands on as many intereseting frameworks and tools as I can. 
 
@@ -12,7 +19,7 @@ I'm not obsessed with it but yes as a text editor I use **VIM**.
 
 
 
-====
+----
 ###Experience
 
 ####[63bits](http://63bits.com)
@@ -44,7 +51,7 @@ For a front-end development I used **Bootstrap** and **jQuery** libraries, also 
 **Front-End Developer**
 I created and developed responsive web pages, for task automatization I used **Guard**, **sass** plus  **compass** as a **CSS** preprocessor, **Bootstrap** and **jquery** libraries.
 
-====
+----
 ###Community Involement
 ####Cofounder of [uniHack](http://unihack.io)
 
@@ -53,7 +60,7 @@ We as a team were able to create a vawe of hackatons in our country by hosting s
 ####TbilisiGTUG
 As a sophomore student I with my friends started google meetups currently also known as **GDG**.
 
-====
+----
 ###Education
 
 
@@ -62,15 +69,11 @@ University | Programme / Degree| Year
 Caucasus University | Computes Science / BCS | 2010 - present
 FH Hagenberg | Computer Science / BCS  | 2012/09 - 2013/02
 
-====
+----
 ###Hobbies
 
 Playing on Classical Guitar & Audio Engineering
 
 Music is the second biggest part of my life, after technologies, that's why I think to somehow connect these two, constantly working on new ideas and projects.
 
-====
-###Contact
-Email: <revaz.zakalashvili@gmail.com>
 
-Social me: [GitHub](https://github.com/revazi), [Twitter](https://twitter.com/rzakala), [LinkedIn](https://www.linkedin.com/in/revazi)
