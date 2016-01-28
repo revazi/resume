@@ -8,7 +8,7 @@ Email: <revaz.zakalashvili@gmail.com>
 Social me: [GitHub](https://github.com/revazi), [Twitter](https://twitter.com/rzakala), [LinkedIn](https://www.linkedin.com/in/revazi)
 
 ---
->>>>>>> 5cea853696fd4311e04e9131e753e339c9ae9a36
+
 ###About me
 As a software developer I mainly try not to be a technology specific and get my hands on as many intereseting frameworks and tools as I can. 
 
