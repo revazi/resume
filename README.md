@@ -1,6 +1,6 @@
 #Revaz Zakalashvili (zakala)
 ##Software Developer
-====
+
 ###About me
 As a software developer I mainly try not to be a technology specific and get my hands on as many intereseting frameworks and tools as I can. 
 
