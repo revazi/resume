@@ -14,7 +14,7 @@ As a software developer I mainly try not to be a technology specific and get my 
 
 During my university years I worked with several projects that involved: **C++**, **Java**, **PHP**, **JavaScript** and **Python**.
 
-Nowadays I use my free time to learn **iOS Development** with **Swift**. For the freelance projects I use **Drupal 8** as a framework and **Docker** as an environment.
+Nowadays I'm freelancer and use my free time to learn **iOS Development** with **Swift**. For the freelance projects I use **Drupal 8** as a framework and **Docker** as an environment.
 
 I'm not obsessed with it but yes as a text editor I use **VIM**.
 
@@ -24,9 +24,11 @@ I'm not obsessed with it but yes as a text editor I use **VIM**.
 ###Experience
 
 ####[63bits](http://63bits.com)
-**C# Developer (2016/01 - present)**
+**C# Developer (2016/01 - 2016/02)**
 
 For the little period of time I was able to create fully functional web page using _(Depricated)ASP Web Forms_ and **MVC framework**, It's a great experience for me as I have to use **.NET platform** and **Visual Studio** with **SQL Server**.
+
+
 
 ####[Geocell](http://geocell.ge) 
 **Service and Network Engineer (2014/08 - 2015/12)**
@@ -62,6 +64,9 @@ We as a team were able to create a vawe of hackatons in our country by hosting s
 As a sophomore student I with my friends started google meetups currently also known as **GDG**.
 
 ----
+
+
+
 ###Education
 
 
