@@ -79,7 +79,3 @@ FH Hagenberg | Computer Science / BCS  | 2012/09 - 2013/02
 ###Hobbies
 
 Playing on Classical Guitar & Audio Engineering
-
-Music is the second biggest part of my life, after technologies, that's why I think to somehow connect these two, constantly working on new ideas and projects.
-
-
