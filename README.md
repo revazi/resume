@@ -10,7 +10,7 @@ Social me: [GitHub](https://github.com/revazi), [Twitter](https://twitter.com/rz
 ---
 
 ###About me
-As a software developer I mainly try not to be a technology specific and get my hands on as many intereseting frameworks and tools as I can. 
+As a software developer I mainly try not to be a technology specific and get my hands on as many intereseting frameworks and tools as I can.
 
 During my university years I worked with several projects that involved: **C++**, **Java**, **PHP**, **JavaScript** and **Python**.
 
@@ -22,13 +22,6 @@ I'm not obsessed with it but yes as a text editor I use **VIM**.
 
 ----
 ###Experience
-
-####[63bits](http://63bits.com)
-**C# Developer (2016/01 - 2016/02)**
-
-For the little period of time I was able to create fully functional web page using _(Depricated)ASP Web Forms_ and **MVC framework**, It's a great experience for me as I have to use **.NET platform** and **Visual Studio** with **SQL Server**.
-
-
 
 ####[Geocell](http://geocell.ge) 
 **Service and Network Engineer (2014/08 - 2015/12)**
