@@ -5,6 +5,8 @@
 
 Email: <revaz.zakalashvili@gmail.com>
 
+Phone: +995577400365
+
 Social me: [GitHub](https://github.com/revazi), [Twitter](https://twitter.com/rzakala), [LinkedIn](https://www.linkedin.com/in/revazi)
 
 ---
@@ -19,9 +21,11 @@ Nowadays I'm freelancer and use my free time to learn **iOS Development** with *
 I'm not obsessed with it but yes as a text editor I use **VIM**.
 
 
-
 ----
+
+
 ###Experience
+
 
 ####[Geocell](http://geocell.ge) 
 **Service and Network Engineer (2014/08 - 2015/12)**
@@ -48,6 +52,8 @@ For a front-end development I used **Bootstrap** and **jQuery** libraries, also 
 I created and developed responsive web pages, for task automatization I used **Guard**, **sass** plus  **compass** as a **CSS** preprocessor, **Bootstrap** and **jquery** libraries.
 
 ----
+
+
 ###Community Involement
 ####Cofounder of [uniHack](http://unihack.io)
 
@@ -56,19 +62,18 @@ We as a team were able to create a vawe of hackatons in our country by hosting s
 ####TbilisiGTUG
 As a sophomore student I with my friends started google meetups currently also known as **GDG**.
 
+
 ----
 
 
-
 ###Education
-
-
 University | Programme / Degree| Year
 ------------ | ------------- | ------------
 Caucasus University | Computes Science / BCS | 2010 - present
 FH Hagenberg | Computer Science / BCS  | 2012/09 - 2013/02
 
 ----
-###Hobbies
 
+
+###Hobbies
 Playing on Classical Guitar & Audio Engineering
