@@ -3,9 +3,9 @@
 
 ###Contact
 
-Email: <revaz.zakalashvili@gmail.com>
-
 Phone: +995577400365
+
+Email: <revaz.zakalashvili@gmail.com>
 
 Social me: [GitHub](https://github.com/revazi), [Twitter](https://twitter.com/rzakala), [LinkedIn](https://www.linkedin.com/in/revazi)
 
