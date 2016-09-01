@@ -16,7 +16,7 @@ As a software developer I mainly try not to be a technology specific and get my 
 
 During my university years I worked with several projects that involved: **C++**, **Java**, **PHP**, **JavaScript** and **Python**.
 
-Nowadays I'm freelancer and use my free time to learn **iOS Development** with **Swift**. For the freelance projects I use **Drupal 8** as a framework and **Docker** as an environment.
+For the freelance projects I use **Drupal 8** as a framework and **Docker** as an environment.
 
 I'm not obsessed with it but yes as a text editor I use **VIM**.
 
@@ -58,10 +58,6 @@ I created and developed responsive web pages, for task automatization I used **G
 ####Cofounder of [uniHack](http://unihack.io)
 
 We as a team were able to create a vawe of hackatons in our country by hosting several big events with around 500 students from 5 different countries.
-
-####TbilisiGTUG
-As a sophomore student I with my friends started google meetups currently also known as **GDG**.
-
 
 ----
 
