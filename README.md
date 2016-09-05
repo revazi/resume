@@ -1,7 +1,6 @@
 #Revaz Zakalashvili
 ##Software Developer
 
----
 ###Contact
 
 Phone: +995577400365
@@ -30,7 +29,9 @@ I with my 3 friends started software devepoment company. During the period we fi
 ####[Geocell](http://geocell.ge) 
 **Service and Network Engineer (2014/08 - 2015/12)**
 
-I gained experience in mobile networking and mainly **USSD gateways**. In addition to my working responsibilities I developed several applications for customer service and other employees:
+
+
+I gained experience in mobile networking, mainly **USSD gateways**. In addition I developed several applications for other employees:
 
 1.	**Log Reader** which uses **NodeJS** with **Express** framework to retrieve data from several servers with different databases such as **MongoDB**, **Redis**, **MySQL**, for the front-end I used **Bootstrap** and **jQuery**.
 2.	**FTP copier** simple console project that copies from one FTP to another written on **Python**.
@@ -62,7 +63,3 @@ University | Programme / Degree| Year
 ------------ | ------------- | ------------
 Caucasus University | Computes Science / BCS | 2010 - present
 FH Hagenberg | Computer Science / BCS  | 2012/09 - 2013/02
-
-----
-###Hobbies
-Playing on Classical Guitar & Audio Engineering
