@@ -1,35 +1,29 @@
 #Revaz Zakalashvili
-##Software Developer
 
-###Contact
+An award winning web developer with good skills of full-stack development. As an engineer I mainly try not to be technology specific and get my hands on as many intereseting tools and frameworks as I can. I'm not obsessed with it but as a text editor I use **VIM**. During my university years I worked with several projects that involved: **PHP**, **JavaScript**, **Python** and **C++**. I've participated in various programming contests both, here in Georgia and abroad, also I've won hackaton organized by [GITA](http://gita.gov.ge/en/).
 
-Phone: +995577400365
+During 2016 I've worked on several **Drupal** projects, where I used **Docker** to manage environments. 
 
-Email: <revaz.zakalashvili@gmail.com>
+**[Tbilisi City Assembly](http://tbsakrebulo.gov.ge/?lng=eng)** - SMS sending application on Drupal 7 that enables users to send bulk notifications to predefined groups and/or single persons via local mobile communication provider [MAGTI](http://www.magticom.ge/).
 
----
+**[Legislative Herald of Georgia](https://matsne.gov.ge/)** - Worked on document management module, which adds functionality for users to favorite documents and see the list of recently viewed ones, also developed and integrated Live Support Chat system.
 
-###About me
-As a software developer I mainly try not to be a technology specific and get my hands on as many intereseting frameworks and tools as I can. During my university years I worked with several projects that involved: **C++**, **Java**, **PHP**, **JavaScript** and **Python**. For the freelance projects I use **Drupal 8** as a development platform and **Docker** for managing different environments.
+**[Educareglobal](http://educareglobal.org/)** - Created on Drupal 8. I gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
 
-I'm not obsessed with it but yes as a text editor I use **VIM**.
+**[Bereik de bouw](http://www.bereikdebouw.nl/)** -  Website for Nethernalds based advertising company. The project is developed fully on Drupal 8.
 
 ----
-###Experience
+####Experience
 
-####[AzRy LLC](http://azry.com/)
-**Software Developer**
+#####[AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - present)**
 
-I worked on an ongoing [project](https://matsne.gov.ge/). I've developed a **Drupal 7** module, which included additional themeing and integration with other existing modules.
+I worked on a [Legislative Herald of Georgia](https://matsne.gov.ge/). I've developed a **Drupal 7** module, which included additional themeing and integration with other existing modules. Developed and integrated Live Support Chat system with an existing project.
 
-####[SweetBits](http://sweetbits.co)
-**Co-Founder, Full-stack Developer(2016/01 - present)**
+#####[SweetBits](http://sweetbits.co) - **Co-Founder, Full-stack Developer(2016/01 - present)**
 
 I with my 3 friends started software devepoment company. During the period we finished several **Drupal**, **Wordpress** and **Woocommerce** projects.
-####[Geocell](http://geocell.ge) 
-**Service and Network Engineer (2014/08 - 2015/12)**
 
-
+#####[Geocell](http://geocell.ge) - **Software Engineer (2014/08 - 2015/12)**
 
 I gained experience in mobile networking, mainly **USSD gateways**. In addition I developed several applications for other employees:
 
@@ -38,28 +32,31 @@ I gained experience in mobile networking, mainly **USSD gateways**. In addition 
 3.	**Chrome Extension** that adds keybindings to the internal web page which helps customer service to speed up their response to incidents, In addition it has built in **Calculator** which takes arguments by highlighting **DOM** elements.
 
 
-####[Omedia](http://omedia.ge)
-**Web Developer (2013/12 - 2014/08)**
+#####[Omedia](http://omedia.ge) - **Web Developer (2013/12 - 2014/08)**
 
 My responsibilities was to create and maintain **Drupal 7** web pages. I was able to work with core components such as **themes**, **modules**, **blocks** and **views**. Also I had one project experience on **[magento](https://magento.com)**.
 For a front-end development I used **Bootstrap** and **jQuery** libraries, also used **Grunt** task runner and **Stylus** as a **CSS** preprocessor.
 
 
-####[ITDC](http://itdc.ge)
-**Front-End Developer**
+#####[ITDC](http://itdc.ge) - **Front-End Developer**
 
 I created and developed responsive web pages, for task automatization I used **Guard**, **sass** plus  **compass** as a **CSS** preprocessor, **Bootstrap** and **jquery** libraries.
 
 ----
-###Community Involement
-####Cofounder of [uniHack](http://unihack.io)
+
+####Community Involvement
+#####Co-Founder of [uniHack](http://unihack.ge)
 
 We as a team were able to create a wave of hackatons in our country by hosting several big events with around 500 students from 5 different countries.
 
 ----
 
-###Education
+####Education
 University | Programme / Degree| Year
 ------------ | ------------- | ------------
 Caucasus University | Computes Science / BCS | 2010 - present
 FH Hagenberg | Computer Science / BCS  | 2012/09 - 2013/02
+
+----
+####Contact
+**phone**: +995577400365    **email**: <revaz.zakalashvili@gmail.com>    **webpage**: [zakala.me](http://zakala.me/)
