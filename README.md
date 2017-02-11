@@ -54,7 +54,7 @@ We as a team were able to create a wave of hackatons in our country by hosting s
 ####Education
 University | Programme / Degree| Year
 ------------ | ------------- | ------------
-Caucasus University | Computes Science / BCS | 2010 - present
+Caucasus University | Computes Science / BCS | 2010 - 2014
 FH Hagenberg | Computer Science / BCS  | 2012/09 - 2013/02
 
 ----
