@@ -15,7 +15,11 @@ During 2016 I've worked on several **Drupal** projects, where I used **Docker** 
 ----
 ####Experience
 
-#####[AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - present)**
+#####[Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - present)**
+Working on ongoing Drupal 8 / Wordpress projects.
+
+
+#####[AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/2)**
 
 I worked on a [Legislative Herald of Georgia](https://matsne.gov.ge/). I've developed a **Drupal 7** module, which included additional themeing and integration with other existing modules. Developed and integrated Live Support Chat system with an existing project.
 
