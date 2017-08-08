@@ -1,31 +1,35 @@
 #Revaz Zakalashvili
 
-An award winning web developer with good skills of full-stack development. As an engineer I mainly try not to be technology specific and get my hands on as many intereseting tools and frameworks as I can. I'm not obsessed with it but as a text editor I use **VIM**. During my university years I worked with several projects that involved: **PHP**, **JavaScript**, **Python** and **C++**. I've participated in various programming contests both, here in Georgia and abroad, also I've won hackaton organized by [GITA](http://gita.gov.ge/en/).
+An award winning web developer with good skills of full-stack development. As an engineer I mainly try not to be technology specific and get my hands on as many intereseting tools and frameworks as I can. I'm not obsessed with it but as a text editor I use **VIM**. During my university years I worked with several projects that involved: **PHP**, **JavaScript**, **Python** and **C++**. I've participated in various programming contests both, here in Georgia and abroad.
 
-During 2016 I've worked on several **Drupal** projects, where I used **Docker** to manage environments. 
+During past years I've worked mainly on **Drupal** projects, where I used **Docker** to manage environments. Currently I'm diving in [ELM](http://elm-lang.org/) and using it with **Drupal 8**.
+
+**[Legislative Herald of Georgia](https://matsne.gov.ge/)** - Worked on document management module, which adds functionality for users to favorite documents and see the list of recently viewed ones, also developed and integrated Live Support Chat system. In addition I've added Documents parallel view and accessibility mode for the webpage.
 
 **[Tbilisi City Assembly](http://tbsakrebulo.gov.ge/?lng=eng)** - SMS sending application on Drupal 7 that enables users to send bulk notifications to predefined groups and/or single persons via local mobile communication provider [MAGTI](http://www.magticom.ge/).
 
-**[Legislative Herald of Georgia](https://matsne.gov.ge/)** - Worked on document management module, which adds functionality for users to favorite documents and see the list of recently viewed ones, also developed and integrated Live Support Chat system.
-
 **[Educareglobal](http://educareglobal.org/)** - Created on Drupal 8. I gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
-
-**[Bereik de bouw](http://www.bereikdebouw.nl/)** -  Website for Nethernalds based advertising company. The project is developed fully on Drupal 8.
 
 ----
 ####Experience
 
-#####[Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - present)**
-Working on ongoing Drupal 8 / Wordpress projects.
+#####[AzRy LLC](http://azry.com/) - **Software Developer (2017/06 - present)**
+
+Craeted document parallel view where two non-structured documents with diffs can be viewed and scrolled parallely. Currently working on accessibility webpage with on site voice synthesizer for [Legislative Herald of Georgia](https://matsne.gov.ge/), whole project is on **Drupal 7**.
 
 
-#####[AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/2)**
+#####[Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - 2017/07)**
+
+Working **Drupal 8** and **Wordpress** projects.
+
+#####[AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/02)**
 
 I worked on a [Legislative Herald of Georgia](https://matsne.gov.ge/). I've developed a **Drupal 7** module, which included additional themeing and integration with other existing modules. Developed and integrated Live Support Chat system with an existing project.
 
-#####[SweetBits](http://sweetbits.co) - **Co-Founder, Full-stack Developer(2016/01 - present)**
 
+#####[SweetBits](http://sweetbits.co) - **Co-Founder, Full-stack Developer(2016/01 - present)**
 I with my 3 friends started software devepoment company. During the period we finished several **Drupal**, **Wordpress** and **Woocommerce** projects.
+
 
 #####[Geocell](http://geocell.ge) - **Software Engineer (2014/08 - 2015/12)**
 
