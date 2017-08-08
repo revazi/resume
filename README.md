@@ -13,25 +13,25 @@ During past years I've worked mainly on **Drupal** projects, where I used **Dock
 ----
 #### Experience
 
-#####[AzRy LLC](http://azry.com/) - **Software Developer (2017/06 - present)**
+##### [AzRy LLC](http://azry.com/) - **Software Developer (2017/06 - present)**
 
 Craeted document parallel view where two non-structured documents with diffs can be viewed and scrolled parallely. Currently working on accessibility webpage with on site voice synthesizer for [Legislative Herald of Georgia](https://matsne.gov.ge/), whole project is on **Drupal 7**.
 
 
-#####[Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - 2017/07)**
+##### [Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - 2017/07)**
 
 Working **Drupal 8** and **Wordpress** projects.
 
-#####[AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/02)**
+##### [AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/02)**
 
 I worked on a [Legislative Herald of Georgia](https://matsne.gov.ge/). I've developed a **Drupal 7** module, which included additional themeing and integration with other existing modules. Developed and integrated Live Support Chat system with an existing project.
 
 
-#####[SweetBits](http://sweetbits.co) - **Co-Founder, Full-stack Developer(2016/01 - present)**
+##### [SweetBits](http://sweetbits.co) - **Co-Founder, Full-stack Developer(2016/01 - present)**
 I with my 3 friends started software devepoment company. During the period we finished several **Drupal**, **Wordpress** and **Woocommerce** projects.
 
 
-#####[Geocell](http://geocell.ge) - **Software Engineer (2014/08 - 2015/12)**
+##### [Geocell](http://geocell.ge) - **Software Engineer (2014/08 - 2015/12)**
 
 I gained experience in mobile networking, mainly **USSD gateways**. In addition I developed several applications for other employees:
 
