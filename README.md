@@ -53,7 +53,7 @@ I created and developed responsive web pages, for task automatization I used **G
 ----
 
 #### Community Involvement
-##### Co-Founder of [uniHack](http://unihack.ge)
+##### Co-Founder of [uniHack](http://unihack.ge/en)
 
 We as a team were able to create a wave of hackatons in our country by hosting several big events with around 500 students from 5 different countries.
 
