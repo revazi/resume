@@ -1,4 +1,4 @@
-#Revaz Zakalashvili
+# Revaz Zakalashvili
 
 An award winning web developer with good skills of full-stack development. As an engineer I mainly try not to be technology specific and get my hands on as many intereseting tools and frameworks as I can. I'm not obsessed with it but as a text editor I use **VIM**. During my university years I worked with several projects that involved: **PHP**, **JavaScript**, **Python** and **C++**. I've participated in various programming contests both, here in Georgia and abroad.
 
@@ -11,7 +11,7 @@ During past years I've worked mainly on **Drupal** projects, where I used **Dock
 **[Educareglobal](http://educareglobal.org/)** - Created on Drupal 8. I gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
 
 ----
-####Experience
+#### Experience
 
 #####[AzRy LLC](http://azry.com/) - **Software Developer (2017/06 - present)**
 
@@ -40,31 +40,31 @@ I gained experience in mobile networking, mainly **USSD gateways**. In addition 
 3.	**Chrome Extension** that adds keybindings to the internal web page which helps customer service to speed up their response to incidents, In addition it has built in **Calculator** which takes arguments by highlighting **DOM** elements.
 
 
-#####[Omedia](http://omedia.ge) - **Web Developer (2013/12 - 2014/08)**
+##### [Omedia](http://omedia.ge) - **Web Developer (2013/12 - 2014/08)**
 
 My responsibilities was to create and maintain **Drupal 7** web pages. I was able to work with core components such as **themes**, **modules**, **blocks** and **views**. Also I had one project experience on **[magento](https://magento.com)**.
 For a front-end development I used **Bootstrap** and **jQuery** libraries, also used **Grunt** task runner and **Stylus** as a **CSS** preprocessor.
 
 
-#####[ITDC](http://itdc.ge) - **Front-End Developer**
+##### [ITDC](http://itdc.ge) - **Front-End Developer**
 
 I created and developed responsive web pages, for task automatization I used **Guard**, **sass** plus  **compass** as a **CSS** preprocessor, **Bootstrap** and **jquery** libraries.
 
 ----
 
-####Community Involvement
-#####Co-Founder of [uniHack](http://unihack.ge)
+#### Community Involvement
+##### Co-Founder of [uniHack](http://unihack.ge)
 
 We as a team were able to create a wave of hackatons in our country by hosting several big events with around 500 students from 5 different countries.
 
 ----
 
-####Education
+#### Education
 University | Programme / Degree| Year
 ------------ | ------------- | ------------
 Caucasus University | Computes Science / BCS | 2010 - 2014
 FH Hagenberg | Computer Science / BCS  | 2012/09 - 2013/02
 
 ----
-####Contact
+#### Contact
 **phone**: +995577400365    **email**: <revaz.zakalashvili@gmail.com>    **webpage**: [zakala.me](http://zakala.me/)
