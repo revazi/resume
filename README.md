@@ -15,12 +15,12 @@ During past years I've worked mainly on **Drupal** projects, where I used **Dock
 
 ##### [AzRy LLC](http://azry.com/) - **Software Developer (2017/06 - present)**
 
-Craeted document parallel view where two non-structured documents with diffs can be viewed and scrolled parallely. Currently working on accessibility webpage with on site voice synthesizer for [Legislative Herald of Georgia](https://matsne.gov.ge/), whole project is on **Drupal 7**.
+Created document parallel view where two non-structured documents with diffs can be viewed and scrolled parallely. Currently working on accessibility webpage with on site voice synthesizer for [Legislative Herald of Georgia](https://matsne.gov.ge/), whole project is on **Drupal 7**.
 
 
 ##### [Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - 2017/07)**
 
-I was a full-stack developmer mainly worked on **Drupal 8** and **Wordpress** projects.
+I was a full-stack developer mainly worked on **Drupal 8** and **Wordpress** projects.
 
 ##### [AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/02)**
 
@@ -37,7 +37,7 @@ I gained experience in mobile networking, mainly **USSD gateways**. In addition 
 
 1.	**Log Reader** which uses **NodeJS** with **Express** framework to retrieve data from several servers with different databases such as **MongoDB**, **Redis**, **MySQL**, for the front-end I used **Bootstrap** and **jQuery**.
 2.	**FTP copier** simple console project that copies from one FTP to another written on **Python**.
-3.	**Chrome Extension** that adds keybindings to the internal web page which helps customer service to speed up their response to incidents, In addition it has built in **Calculator** which takes arguments by highlighting **DOM** elements.
+3.	**Chrome Extension** that adds keybindings to the internal web page which helps customer service to speed up their response to incidents, In addition it has a built in **Calculator** which takes arguments by highlighting **DOM** elements.
 
 
 ##### [Omedia](http://omedia.ge) - **Web Developer (2013/12 - 2014/08)**
