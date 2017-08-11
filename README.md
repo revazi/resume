@@ -20,7 +20,7 @@ Craeted document parallel view where two non-structured documents with diffs can
 
 ##### [Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - 2017/07)**
 
-Working **Drupal 8** and **Wordpress** projects.
+I was a full-stack developmer mainly worked on **Drupal 8** and **Wordpress** projects.
 
 ##### [AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/02)**
 
