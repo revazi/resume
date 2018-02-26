@@ -1,26 +1,28 @@
 # Revaz Zakalashvili
 
-An award winning web developer with good skills of full-stack development. As an engineer I mainly try not to be technology specific and get my hands on as many intereseting tools and frameworks as I can. I'm not obsessed with it but as a text editor I use **VIM**. During my university years I worked with several projects that involved: **PHP**, **JavaScript**, **Python** and **C++**. I've participated in various programming contests both, here in Georgia and abroad.
+Highly motivated, eager to constantly learn and develop my skills, as a developer I mainly try not to be technology specific and get my hands on as many intereseting tools and frameworks as I can. I'm not obsessed with it but as a text editor I use **VIM**. During my university years I worked with several projects that involved: **PHP**, **JavaScript**, **Python** and **C++**. I've participated in various programming contests both, here in Georgia and abroad.
 
-During past years I've worked mainly on **Drupal** projects, where I used **Docker** to manage environments. Currently I'm diving in [ELM](http://elm-lang.org/) and using it with **Drupal 8**.
+During past years I've worked mainly on **Frontend** and **Drupal** projects. Currently leaning towards functional programming and I'm diving in [ELM](http://elm-lang.org/) and **Haskell**.
 
-**[Legislative Herald of Georgia](https://matsne.gov.ge/)** - Worked on document management module, which adds functionality for users to favorite documents and see the list of recently viewed ones, also developed and integrated Live Support Chat system. In addition I've added Documents parallel view and accessibility mode for the webpage.
+**[World Food Programme](http://www1.wfp.org)** - Worked on **Frontend** and **Drupal 8** tasks, gained good experience in working remotely.
+
+**[Legislative Herald of Georgia](https://matsne.gov.ge/)** - Worked on several projects: **Documents management module** - adds functionality for users to favorite documents and see the list of recently viewed ones, **Live Chat** - support chat system, **Parallel View** - enables users to view different versions of one document paralelly and matches them while scrolling, **On Site Voice Over** - adds on site voice synthesizer that reads webpage for visually impaired people and integrates stardard shotrcuts for navigation, adds WCAG and WAI-ARIA support.
 
 **[Tbilisi City Assembly](http://tbsakrebulo.gov.ge/?lng=eng)** - SMS sending application on Drupal 7 that enables users to send bulk notifications to predefined groups and/or single persons via local mobile communication provider [MAGTI](http://www.magticom.ge/).
 
-**[Educareglobal](http://educareglobal.org/)** - Created on Drupal 8. I gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
+**[Educareglobal](http://educareglobal.org/)** - Designed and created frontend architecture from scratch using: Gulp, SASS and Handlebars. For the backend I used Drupal 8 and gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
 
 ----
 #### Experience
 
-##### [AzRy LLC](http://azry.com/) - **Software Developer (2017/06 - present)**
+##### [AzRy LLC](http://azry.com/) - **Software Developer (2017/06 - 2018/01)**
 
-Created document parallel view where two non-structured documents with diffs can be viewed and scrolled parallely. Currently working on accessibility webpage with on site voice synthesizer for [Legislative Herald of Georgia](https://matsne.gov.ge/), whole project is on **Drupal 7**.
+As a part of agreement I worked on **WFP.org** other than that on [Legislative Herald of Georgia](https://matsne.gov.ge/) created document parallel view where two non-structured documents with diffs can be viewed and scrolled parallely and developed accessibility webpage with on site voice synthesizer, project is on **Drupal 7**.
 
 
 ##### [Origin Eight](http://origineight.net/) - **Software Developer (2017/03 - 2017/07)**
 
-I was a full-stack developer mainly worked on **Drupal 8** and **Wordpress** projects.
+I was a full-stack developer mainly worked on **Frontend**, **Drupal 8** and **Wordpress** projects.
 
 ##### [AzRy LLC](http://azry.com/) - **Software Developer (2016/08 - 2017/02)**
 
