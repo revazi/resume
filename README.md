@@ -2,7 +2,9 @@
 
 Highly motivated, eager to constantly learn and develop my skills, as a developer I mainly try not to be technology specific and get my hands on as many intereseting tools and frameworks as I can. I'm not obsessed with it but as a text editor I use **VIM**. During my university years I worked with several projects that involved: **PHP**, **JavaScript**, **Python** and **C++**. I've participated in various programming contests both, here in Georgia and abroad.
 
-During past years I've worked mainly on **Frontend** and **Drupal** projects. Currently leaning towards functional programming and I'm diving in [ELM](http://elm-lang.org/) and **Haskell**.
+During past years I've worked mainly on **Frontend** and **Drupal** projects. Currently leaning towards functional programming, diving in [ELM](http://elm-lang.org/) and [Haskell](https://www.haskell.org).
+
+**[Step Sequencer](http://zakala.me/controller/)** - Designed and developed, from scratch, using **[Processing](https://www.processing.org)** port to js - **[P5.JS](https://p5js.org)**
 
 **[World Food Programme](http://www1.wfp.org)** - Worked on **Frontend** and **Drupal 8** tasks, gained good experience in working remotely.
 
@@ -10,7 +12,7 @@ During past years I've worked mainly on **Frontend** and **Drupal** projects. Cu
 
 **[Tbilisi City Assembly](http://tbsakrebulo.gov.ge/?lng=eng)** - SMS sending application on Drupal 7 that enables users to send bulk notifications to predefined groups and/or single persons via local mobile communication provider [MAGTI](http://www.magticom.ge/).
 
-**[Educareglobal](http://educareglobal.org/)** - Designed and created frontend architecture from scratch using: Gulp, SASS and Handlebars. For the backend I used Drupal 8 and gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
+**[Educareglobal](http://educareglobal.org/)** - Designed and created frontend architecture from scratch using: **Gulp**, **SASS** and **Handlebars**. For the backend I used Drupal 8 and gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
 
 ----
 #### Experience
@@ -44,13 +46,13 @@ I gained experience in mobile networking, mainly **USSD gateways**. In addition 
 
 ##### [Omedia](http://omedia.ge) - **Web Developer (2013/12 - 2014/08)**
 
-My responsibilities was to create and maintain **Drupal 7** web pages. I was able to work with core components such as **themes**, **modules**, **blocks** and **views**. Also I had one project experience on **[magento](https://magento.com)**.
+My responsibilities were to create and maintain **Drupal 7** web pages. I was able to work with core components such as **themes**, **modules**, **blocks** and **views**. Also I had one project experience on **[magento](https://magento.com)**.
 For a front-end development I used **Bootstrap** and **jQuery** libraries, also used **Grunt** task runner and **Stylus** as a **CSS** preprocessor.
 
 
 ##### [ITDC](http://itdc.ge) - **Front-End Developer**
 
-I created and developed responsive web pages, for task automatization I used **Guard**, **sass** plus  **compass** as a **CSS** preprocessor, **Bootstrap** and **jquery** libraries.
+I created and developed responsive web pages, for task automatization I used **Guard**, **SASS** plus  **Compass** as a **CSS** preprocessor, **Bootstrap** and **jQuery** libraries.
 
 ----
 
