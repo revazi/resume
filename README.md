@@ -8,27 +8,21 @@ During past years I've worked mainly on **Frontend** and **Drupal** projects. Cu
 #### Latest Projects
 
 ##### [Step Sequencer](http://zakala.me/controller/)
-
 Designed and developed, from scratch, using **[Processing](https://www.processing.org)** port to js - **[P5.JS](https://p5js.org)**
 
 ##### [World Food Programme](http://www1.wfp.org)
-
 Worked on **Frontend** and **Drupal 8** tasks, gained good experience in working remotely.
 
-##### [Legislative Herald of Georgia](https://matsne.gov.ge/)**
-
+##### [Legislative Herald of Georgia](https://matsne.gov.ge/)
 Worked on several projects: **Documents management module** - adds functionality for users to favorite documents and see the list of recently viewed ones, **Live Chat** - support chat system, **Parallel View** - enables users to view different versions of one document paralelly and matches them while scrolling, **On Site Voice Over** - adds on site voice synthesizer that reads webpage for visually impaired people and integrates stardard shotrcuts for navigation, adds WCAG and WAI-ARIA support.
 
 ##### [SXVA.ME](http://zakala.me/sxva/)
-
 Single page, static website for TBC bank marketing campaing.
 
 ##### SMS Sending App
-
 Application for [Tbilisi City Assembly](http://tbsakrebulo.gov.ge/?lng=eng) on Drupal 7 that enables users to send bulk notifications to predefined groups and/or single persons via local mobile communication provider [MAGTI](http://www.magticom.ge/).
 
 ##### [Educareglobal](http://zakala.me/educare/)
-
 Designed and created frontend architecture from scratch using: **Gulp**, **SASS** and **Handlebars**. For the backend I used Drupal 8 and gained good experience in theme and module development. Webpage is integrated with several payment systems([TBC](http://www.tbcbank.ge/), [PayPal](https://www.paypal.com/)).
 
 ----
