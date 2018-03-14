@@ -63,6 +63,12 @@ We as a team were able to create a wave of hackatons in our country by hosting s
 
 ----
 
+#### Publications
+
+[Parallel Scroll](https://medium.com/@revazi/parallel-scroll-330bbfc0f06d)
+
+----
+
 #### Education
 University | Programme / Degree| Year
 ------------ | ------------- | ------------
